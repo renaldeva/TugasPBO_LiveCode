@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\bin\Debug\net8.0\TugasBiodata.exe
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\bin\Debug\net8.0\TugasBiodata.deps.json
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\bin\Debug\net8.0\TugasBiodata.runtimeconfig.json
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\bin\Debug\net8.0\TugasBiodata.dll
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\bin\Debug\net8.0\TugasBiodata.pdb
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\obj\Debug\net8.0\TugasBiodata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\obj\Debug\net8.0\TugasBiodata.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\obj\Debug\net8.0\TugasBiodata.AssemblyInfo.cs
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\obj\Debug\net8.0\TugasBiodata.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\obj\Debug\net8.0\TugasBiodata.dll
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\obj\Debug\net8.0\refint\TugasBiodata.dll
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\obj\Debug\net8.0\TugasBiodata.pdb
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\obj\Debug\net8.0\TugasBiodata.genruntimeconfig.cache
+C:\Users\User\source\repos\TugasBiodata\TugasBiodata\obj\Debug\net8.0\ref\TugasBiodata.dll
