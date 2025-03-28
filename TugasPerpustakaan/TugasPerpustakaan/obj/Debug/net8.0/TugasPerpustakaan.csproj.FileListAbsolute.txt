@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\bin\Debug\net8.0\TugasPerpustakaan.exe
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\bin\Debug\net8.0\TugasPerpustakaan.deps.json
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\bin\Debug\net8.0\TugasPerpustakaan.runtimeconfig.json
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\bin\Debug\net8.0\TugasPerpustakaan.dll
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\bin\Debug\net8.0\TugasPerpustakaan.pdb
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\obj\Debug\net8.0\TugasPerpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\obj\Debug\net8.0\TugasPerpustakaan.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\obj\Debug\net8.0\TugasPerpustakaan.AssemblyInfo.cs
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\obj\Debug\net8.0\TugasPerpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\obj\Debug\net8.0\TugasPerpustakaan.dll
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\obj\Debug\net8.0\refint\TugasPerpustakaan.dll
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\obj\Debug\net8.0\TugasPerpustakaan.pdb
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\obj\Debug\net8.0\TugasPerpustakaan.genruntimeconfig.cache
+C:\Users\User\source\repos\TugasPerpustakaan\TugasPerpustakaan\obj\Debug\net8.0\ref\TugasPerpustakaan.dll
